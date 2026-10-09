@@ -4,6 +4,12 @@ I'm currently pursuing an MSc in Biomedical Data Science at Nanyang Technologica
 
 I build practical AI systems and reproducible data workflows. My interests sit at the intersection of machine learning, biomedical research, research software, and open science.
 
+<a href="https://ghfind.com/u/rastagan-git?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/rastagan-git?theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/rastagan-git?theme=light" alt="ghfind score card for rastagan-git" width="440" />
+  </picture>
+</a>
 
 ## Current focus
 
